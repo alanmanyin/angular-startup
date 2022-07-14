@@ -1,3 +1,3 @@
-# angular-eta4jv
+# Angular Startup Tutorial
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-eta4jv)
+    follows the official tutorial to create a demo online store
